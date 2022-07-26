@@ -1,5 +1,5 @@
 # Projetos de RC
-Projetos realizados da disciplina de Redes de Computadores 2021/2022
+Projetos realizados da disciplina de Redes de Computadores 2021/2022.
 
 
 ## Grade
